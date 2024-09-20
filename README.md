@@ -6,7 +6,8 @@ Basic Maths Operations:
 * Addition 
 * Subtraction 
 * Multiplication 
-* Division 
+* Division
+----
 
 🔗 Link to Swift Coding Documentation for beginners: 
 https://www.swift.org/getting-started/
